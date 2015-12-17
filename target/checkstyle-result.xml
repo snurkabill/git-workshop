@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="6.2">
+<file name="/home/fprochazka/devel/school/PB162/seminar-project/src/main/java/cz/muni/fi/pb162/project/db/Connection.java">
+</file>
+<file name="/home/fprochazka/devel/school/PB162/seminar-project/src/main/java/cz/muni/fi/pb162/project/db/DbUnreachableException.java">
+</file>
+<file name="/home/fprochazka/devel/school/PB162/seminar-project/src/main/java/cz/muni/fi/pb162/project/db/CannotStoreException.java">
+</file>
+<file name="/home/fprochazka/devel/school/PB162/seminar-project/src/main/java/cz/muni/fi/pb162/project/db/Storage.java">
+</file>
+<file name="/home/fprochazka/devel/school/PB162/seminar-project/src/main/java/cz/muni/fi/pb162/project/db/DbException.java">
+</file>
+<file name="/home/fprochazka/devel/school/PB162/seminar-project/src/main/java/cz/muni/fi/pb162/project/db/MyStorage.java">
+</file>
+<file name="/home/fprochazka/devel/school/PB162/seminar-project/src/main/java/cz/muni/fi/pb162/project/db/Connector.java">
+</file>
+<file name="/home/fprochazka/devel/school/PB162/seminar-project/src/main/java/cz/muni/fi/pb162/project/demo/Demo.java">
+</file>
+<file name="/home/fprochazka/devel/school/PB162/seminar-project/src/main/java/cz/muni/fi/pb162/project/geometry/Polygon.java">
+</file>
+<file name="/home/fprochazka/devel/school/PB162/seminar-project/src/main/java/cz/muni/fi/pb162/project/geometry/LabeledPolygon.java">
+</file>
+<file name="/home/fprochazka/devel/school/PB162/seminar-project/src/main/java/cz/muni/fi/pb162/project/geometry/Gauger.java">
+</file>
+<file name="/home/fprochazka/devel/school/PB162/seminar-project/src/main/java/cz/muni/fi/pb162/project/geometry/Triangle.java">
+</file>
+<file name="/home/fprochazka/devel/school/PB162/seminar-project/src/main/java/cz/muni/fi/pb162/project/geometry/RegularOctagon.java">
+</file>
+<file name="/home/fprochazka/devel/school/PB162/seminar-project/src/main/java/cz/muni/fi/pb162/project/geometry/Vertex2D.java">
+</file>
+<file name="/home/fprochazka/devel/school/PB162/seminar-project/src/main/java/cz/muni/fi/pb162/project/geometry/GeneralRegularPolygon.java">
+</file>
+<file name="/home/fprochazka/devel/school/PB162/seminar-project/src/main/java/cz/muni/fi/pb162/project/geometry/SimplePolygon.java">
+</file>
+<file name="/home/fprochazka/devel/school/PB162/seminar-project/src/main/java/cz/muni/fi/pb162/project/geometry/Measurable.java">
+</file>
+<file name="/home/fprochazka/devel/school/PB162/seminar-project/src/main/java/cz/muni/fi/pb162/project/geometry/Snowman.java">
+</file>
+<file name="/home/fprochazka/devel/school/PB162/seminar-project/src/main/java/cz/muni/fi/pb162/project/geometry/Circle.java">
+</file>
+<file name="/home/fprochazka/devel/school/PB162/seminar-project/src/main/java/cz/muni/fi/pb162/project/geometry/Solid.java">
+</file>
+<file name="/home/fprochazka/devel/school/PB162/seminar-project/src/main/java/cz/muni/fi/pb162/project/geometry/Square.java">
+</file>
+<file name="/home/fprochazka/devel/school/PB162/seminar-project/src/main/java/cz/muni/fi/pb162/project/geometry/CollectionPolygon.java">
+</file>
+<file name="/home/fprochazka/devel/school/PB162/seminar-project/src/main/java/cz/muni/fi/pb162/project/geometry/RegularPolygon.java">
+</file>
+<file name="/home/fprochazka/devel/school/PB162/seminar-project/src/main/java/cz/muni/fi/pb162/project/geometry/Colored.java">
+</file>
+<file name="/home/fprochazka/devel/school/PB162/seminar-project/src/main/java/cz/muni/fi/pb162/project/geometry/PolygonIO.java">
+</file>
+<file name="/home/fprochazka/devel/school/PB162/seminar-project/src/main/java/cz/muni/fi/pb162/project/geometry/VertexInverseComparator.java">
+</file>
+<file name="/home/fprochazka/devel/school/PB162/seminar-project/src/main/java/cz/muni/fi/pb162/project/geometry/OlympicRings.java">
+</file>
+<file name="/home/fprochazka/devel/school/PB162/seminar-project/src/main/java/cz/muni/fi/pb162/project/geometry/ArrayPolygon.java">
+</file>
+<file name="/home/fprochazka/devel/school/PB162/seminar-project/src/main/java/cz/muni/fi/pb162/project/geometry/Color.java">
+</file>
+</checkstyle>
