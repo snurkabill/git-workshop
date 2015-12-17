@@ -3,7 +3,11 @@ PB162 Seminar project
 
 dsdsad
 
-This project is a set of subsequent assignments used to demonstrate and practice the main aspects of Java and Object Oriented Programming in semianr groups of PB162 course at Faculty of Informatics, Masaryk University .
+THE GAME!, Vahy
+
+This project is
+ a set of subsequent assignments used to demonstrate and practice the main aspects of Java and Object Oriented Programming in semianr
+  groups of PB162 course at Faculty of Informatics, Masaryk University .
 
 
 Downloading the assignment
