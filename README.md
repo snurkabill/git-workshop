@@ -1,12 +1,16 @@
 PB162 Seminar project
 =====================
 
+
 Klara ma strasny hlad
 
 Kit je zmätená :(
 ale tu mate zajaca na voziku @"o=
 
-dsdsad
+
+
+dsdsdfasdfasdfsad
+
 
 THE GAME!, Vahy
 
